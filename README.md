@@ -4,6 +4,7 @@
  Preview
 </h1>
 
+![2022-12-12 14 00 02](https://user-images.githubusercontent.com/105700046/207029169-0d593214-fd02-4930-8811-1949f03c7736.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
